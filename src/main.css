@@ -1,4 +1,29 @@
-h1{
-  font: Helvetica
-  font-size: 24px
+h1 {
+  font-family: "Montserrat";
+  font-size: 24px;
+}
+h2{
+  font-family: "Montserrat";
+  font-size: 50px;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Montserrat";
+  font-weight: normal;
+}
+p{
+    font-family: "Helvetica";
+    font-size: 12px;
+    font-weight: normal;
+}
+.header {
+
+}
+
+.tagline {
+
+}
+
+.skills {
+
 }
